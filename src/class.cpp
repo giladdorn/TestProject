@@ -11,7 +11,7 @@ car::car(float w, float l, float wi, float he)
 void car::printSpecs()
 {
     std::cout<< "weight:  " << weight;
-    std::cout<< "\nnheight:  " << height;
+    std::cout<< "\nheight:  " << height;
     std::cout<< "\nlength:  " << length;
     std::cout<< "\nwidth:  " << width;
 
