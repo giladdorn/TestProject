@@ -2,3 +2,5 @@
 class.d
 .gitignore
 main.d
+obj/class.o
+obj/main.o
